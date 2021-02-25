@@ -6,7 +6,7 @@ I'm a 3rd year Engineering student at the University of Stellenbosch, South Afri
 
 ### Currently learning
 
-<img src="assets/TypeScript_logo.svg" width="15px"/> Frontend development (TypeScript with Angular)
+<img src="assets/TypeScript_logo.svg" width="15px"/> Front-end development (TypeScript with Angular)
 
 <img src="assets/cpp_logo.svg" width="15px"/> Arduino programming (C++)
 
