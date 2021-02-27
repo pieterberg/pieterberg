@@ -2,7 +2,7 @@
 
 I'm Pieter van den Berg
 
-I'm a 3rd year Engineering student at the University of Stellenbosch, South Africa
+I'm a 3rd year Chemical Engineering student at the University of Stellenbosch, South Africa
 
 ### Currently learning
 
