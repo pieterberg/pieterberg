@@ -10,3 +10,5 @@ I'm a 3rd year Chemical Engineering student at Stellenbosch University, South Af
 <img src="assets/languages/cpp_logo.svg" width="17px"/> C++
 
 <img src="assets/languages/Python_logo.svg" width="17px"/> Python
+
+<img src="assets/languages/MATLAB_logo.png" width="17px"/> MATLAB
