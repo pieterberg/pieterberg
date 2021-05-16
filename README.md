@@ -4,7 +4,7 @@ I'm Pieter van den Berg
 
 I'm a 3rd year Process Engineering student at Stellenbosch University, South Africa
 
-### Languages
+### Learning
 <img src="assets/languages/TypeScript_logo.svg" width="17px"/> TypeScript
 
 <img src="assets/languages/cpp_logo.svg" width="17px"/> C++
