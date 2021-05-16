@@ -2,7 +2,7 @@
 
 I'm Pieter van den Berg
 
-I'm a 3rd year Chemical Engineering student at Stellenbosch University, South Africa
+I'm a 3rd year Process Engineering student at Stellenbosch University, South Africa
 
 ### Languages
 <img src="assets/languages/TypeScript_logo.svg" width="17px"/> TypeScript
